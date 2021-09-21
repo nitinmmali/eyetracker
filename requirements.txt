@@ -3,7 +3,6 @@ gunicorn==20.1.0
 itsdangerous==1.1.0
 Markdown==3.3.4
 MarkupSafe==1.1.1
-os
 Pillow==8.2.0
 pipreqs==0.4.10
 pixellib==0.6.6
